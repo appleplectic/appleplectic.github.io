@@ -10,11 +10,15 @@ Discord: https://discord.gg/vAF2WnXQjS
 
 Uptime: https://stats.uptimerobot.com/gK64OFqNGG
 
-Minecraft Servers: https://minecraftservers.org/server/629898 (please vote to increase popularity!)
+## Vote
 
-Minecraft Server List: https://minecraft-server-list.com/server/484553/ (also please vote!)
+Please vote at the links below to increase popularity to the server. You will be rewarded with 5 iron.
 
-Minecraft Server Lobby: https://minecraft.serverlobby.io/en/server/mc-smp (please leave a rating and vote!)
+Minecraft Servers: https://minecraftservers.org/server/629898
+
+Minecraft Server List: https://minecraft-server-list.com/server/484553/
+
+Minecraft Server Lobby: https://minecraft.serverlobby.io/en/server/mc-smp
 
 Top Minecraft Servers: https://topminecraftservers.org/server/24152
 
